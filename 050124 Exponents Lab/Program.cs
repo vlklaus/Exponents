@@ -13,7 +13,7 @@ while (again)
         continue;
     }
 
-    //header {x,indent:F1}
+    //header
     Console.WriteLine("Number\t\tSquared\t\tCubed");
     Console.WriteLine("=======\t\t=======\t\t======");
 
